@@ -22,3 +22,6 @@ if (color === "красный") {
     alert("ждать")
 }else if (color === "зеленый") 
     alert("идти")
+
+
+    // compleated
